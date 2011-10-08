@@ -57,7 +57,7 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="47" selection-start="426" selection-end="426" vertical-scroll-proportion="0.3927987">
+            <state line="15" column="53" selection-start="357" selection-end="357" vertical-scroll-proportion="0.36824876">
               <folding />
             </state>
           </provider>
@@ -776,7 +776,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="332" y="226" width="1252" height="776" extended-state="0" />
+    <frame x="325" y="201" width="1252" height="776" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903716" sideWeight="0.68292683" order="3" side_tool="false" content_ui="tabs" />
@@ -923,7 +923,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="47" selection-start="426" selection-end="426" vertical-scroll-proportion="0.3927987">
+        <state line="15" column="53" selection-start="357" selection-end="357" vertical-scroll-proportion="0.36824876">
           <folding />
         </state>
       </provider>
