@@ -54,19 +54,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="-2.5">
+            <state line="16" column="47" selection-start="426" selection-end="426" vertical-scroll-proportion="0.3927987">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="28" selection-start="539" selection-end="539" vertical-scroll-proportion="0.51968503">
+            <state line="7" column="107" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -135,8 +135,8 @@
         <option value="$PROJECT_DIR$/test/test_helper.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/products/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -914,16 +914,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="-2.5">
+        <state line="7" column="107" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="28" selection-start="539" selection-end="539" vertical-scroll-proportion="0.51968503">
+        <state line="16" column="47" selection-start="426" selection-end="426" vertical-scroll-proportion="0.3927987">
           <folding />
         </state>
       </provider>
